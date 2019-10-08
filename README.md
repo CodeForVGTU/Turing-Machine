@@ -4,11 +4,11 @@ Turing Machine Simulator created with Python
 Python version: Python 3.6.8
 Program is easily usable in CMD/Terminal.
 
-A Turing machine is a mathematical model of computation that defines an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.
+A Turing machine is a mathematical model of computation that definegs an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.
 THere are 5 commands: {current_state}{current_symbol}{next_symbol}{moving_position}{next_state}
 
-To set up program on Linux:
-Open terminal and enter commands:
+# To set up program on Linux:
+## Open terminal and enter commands:
 ( you can check python version by typing: "python3 --version" )
   "sudo apt install python3-pip" - package required for installing modules
   "pip3 install console-menu"
@@ -25,7 +25,8 @@ Open terminal and enter commands:
     1 line - head position
     2 line - tape
     all the left lines - code for turing machine.
-    
+
+# ALgorithm:
 So our main task is to change tape by executing Turing code.
 Simply open app and on menu select first option (by typing 1 and clicking enter).
 Then enter file names (together with type). After you finish enter "Q".
