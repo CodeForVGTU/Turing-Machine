@@ -1,5 +1,5 @@
 # Turing-Machine
-Turing Machine Simulator created with Python
+<u>Turing Machine Simulator created with Python</u>
 
 Python version: Python 3.6.8
 <i>Program is easily usable in CMD/Terminal.</i>
@@ -9,7 +9,7 @@ THere are 5 commands: {current_state}{current_symbol}{next_symbol}{moving_positi
 
 # To set up program on Linux:
 ## Open terminal and enter commands:
-( you can check python version by typing: "python3 --version" )<br/>
+  "python3 --version" - check python 3 version<br/>
   "sudo apt install python3-pip" - package required for installing modules<br/>
   "pip3 install console-menu"<br/>
   "pip3 install futures"<br/>
