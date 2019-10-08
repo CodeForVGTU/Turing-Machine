@@ -20,7 +20,6 @@ THere are 5 commands: {current_state}{current_symbol}{next_symbol}{moving_positi
     "sudo python3 TM.py" - sudo is required for keyboard module
 
 # About .txt files:
-  At this state file should work.
   Basically there are 4 different .txt files which contains data for TM simulator.
   .txt files structure:<br/>
     1 line - head position<br/>
