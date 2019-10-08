@@ -16,7 +16,7 @@ THere are 5 commands: {current_state}{current_symbol}{next_symbol}{moving_positi
   "pip3 install keyboard"<br/>
   "pip3 install colorama"<br/>
   
-  to open program go to file directory via terminal and execute file by typing:
+  to open program go to file directory via terminal and execute file by typing:</br>
     "sudo python3 TM.py" - sudo is required for keyboard module
 
 # About .txt files:
