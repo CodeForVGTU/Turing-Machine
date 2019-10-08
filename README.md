@@ -26,7 +26,7 @@ THere are 5 commands: {current_state}{current_symbol}{next_symbol}{moving_positi
     2 line - tape<br/>
     all the left lines - code for turing machine.
 
-# ALgorithm:
+# Algorithm:
 So our main task is to change tape by executing Turing code.
 Simply open app and on menu select first option (by typing 1 and clicking enter).
 Then enter file names (together with type). After you finish enter "Q".
