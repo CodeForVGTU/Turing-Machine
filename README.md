@@ -4,7 +4,7 @@
 Python version: Python 3.6.8
 <i>Program is easily usable in CMD/Terminal.</i>
 
-A Turing machine is a mathematical model of computation that definegs an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.</br>
+A Turing machine is a mathematical model of computation that defines an abstract machine, which manipulates symbols on a strip of tape according to a table of rules.</br>
 There are 5 commands: {current_state}{current_symbol}{next_symbol}{moving_position}{next_state}
 
 # To set up program on Linux:
